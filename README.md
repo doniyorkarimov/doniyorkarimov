@@ -1,21 +1,4 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Karimov+Doniyor;Backend+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="500" alt="Hacker GIF">
-</p>
-
-class Hacker:
-    def __init__(self):
-        self.name = "Karimov Doniyor"
-        self.profession = "Backend Developer & Cybersecurity Enthusiast"
-        self.skills = ["Python", "Django", "Linux", "Pentesting"]
-    
-    def hack_the_world(self):
-        print("Connecting to the matrix... 🔥")
-- WARNING: This profile is being monitored by the cybersecurity agency. 😎
 
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
