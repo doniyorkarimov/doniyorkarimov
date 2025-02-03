@@ -1,4 +1,6 @@
 ![Server Running](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
+![Testing](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
+![Debugging](https://media.giphy.com/media/l0HU7JI1m1eC3G5Li/giphy.gif)
 
 <h1 align="center">Backend Developer</h1>
 
