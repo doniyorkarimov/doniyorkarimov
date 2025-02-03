@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Karimov Doniyor" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Karimov Doniyor"/>
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+yosh dasturrchi 
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
