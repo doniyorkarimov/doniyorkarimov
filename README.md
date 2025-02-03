@@ -26,6 +26,16 @@ graph TD;
     B --> F[Flask]
     C --> G[Express.js]
     D --> H[Spring Boot]
+
+    ## 🌐 Men bilan bog'laning
+
+Meni quyidagi ijtimoiy tarmoqlarda kuzatishingiz mumkin:
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sizning_telegram)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sizning_instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sizning_linkedin)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sizning_facebook)
+
 ### Men qanday vaqt sarflayman:
 ```mermaid
 pie
@@ -38,11 +48,4 @@ pie
 
 
 
-## 🌐 Men bilan bog'laning
 
-Meni quyidagi ijtimoiy tarmoqlarda kuzatishingiz mumkin:
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sizning_telegram)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sizning_instagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sizning_linkedin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sizning_facebook)
