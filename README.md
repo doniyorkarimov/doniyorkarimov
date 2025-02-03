@@ -12,15 +12,13 @@ Men quyidagi texnologiyalar va asboblarni qo'llayman:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Diagrammalar va Statistikalar
-graph TD;
-    A[Backend] --> B[Python]
-    A --> C[Node.js]
-    A --> D[Java]
-    B --> E[Django]
-    B --> F[Flask]
-    C --> G[Express.js]
-    D --> H[Spring Boot]
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm currently working on Laravel & Vue
+- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
+- :triangular_flag_on_post: I teach code on YouTube
+- :muscle: Do Bodybuilding & Calisthenics
+- :rocket: Always ready to collaborate for Dev Experiments
 
     ## 🌐 Men bilan bog'laning
 
