@@ -8,9 +8,3 @@
 - 👨‍💻 API, django, postman, swagger, git
 - ⚙️ Html, Css 
 - 💽 Postgrsql
-
-
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
