@@ -1,13 +1,14 @@
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Terminal GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-![Backend Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Matrix GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![Minimalist Matrix GIF](https://media.giphy.com/media/l1J9AT7qqx17XOzhm/giphy.gif)
-![Dark Mode GIF](https://media.giphy.com/media/1l2Fq65hfEK6X2lYns/giphy.gif)
-![Terminal Coding GIF](https://media.giphy.com/media/6BJuPEbYjp21s/giphy.gif)
-![Typing GIF](https://media.giphy.com/media/9Zx5y6Wlj8o8w/giphy.gif)
-![Backend Ish Jarayoni](https://media.giphy.com/media/your_gif_link_here.gif)
+
+![Xakerlik Jarayoni](https://media.giphy.com/media/your_hacker_gif_link_here.gif)
+
+## Kod Yozish
+
+![Kod Yozish](https://media.giphy.com/media/your_coding_gif_link_here.gif)
+
+## Kiber Xavfsizlik
+
+![Kiber Xavfsizlik](https://media.giphy.com/media/your_cyber_security_gif_link_here.gif)
 
 <h1 align="center">Backend Developer</h1>
 
