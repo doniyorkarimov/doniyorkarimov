@@ -37,23 +37,6 @@ Meni quyidagi ijtimoiy tarmoqlarda kuzatishingiz mumkin:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sizning_facebook)
 
 
-## ⏰ Mening Kunim
-
-- **Kod yozish** 🖥️: 40% - Backend va API larni ishlab chiqish.
-- **Rejalashtirish** 📝: 20% - Loyihalarni rejalashtirish va tahlil qilish.
-- **Xatoliklarni tuzatish** 🐛: 20% - Kodni debug qilish va xatoliklarni bartaraf etish.
-- **Dokumentatsiya** 📄: 10% - Loyiha hujjatlarini yozish va yangilash.
-- **Dam olish** 🛋️: 10% - Dam olish va yangilanish.
-
-  ## ⏳ Mening Vaqt Taqsimotim
-
-Quyida mening kunimda qanday vaqt sarflayman ko'rsatilgan:
-
-- Kod yozish 🖥️: `████████████████████` (40%)
-- Rejalashtirish 📝: `██████████` (20%)
-- Xatoliklarni tuzatish 🐛: `██████████` (20%)
-- Dokumentatsiya 📄: `█████` (10%)
-- Dam olish 🛋️: `█████` (10%)
 - 
 ### Men qanday vaqt sarflayman:
 ```mermaid
@@ -64,7 +47,6 @@ pie
     "Xatoliklarni tuzatish" : 20
     "Dokumentatsiya yozish" : 10
     "Dam olish" : 10
-
 
 
 
