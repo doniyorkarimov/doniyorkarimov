@@ -44,6 +44,17 @@ Meni quyidagi ijtimoiy tarmoqlarda kuzatishingiz mumkin:
 - **Xatoliklarni tuzatish** 🐛: 20% - Kodni debug qilish va xatoliklarni bartaraf etish.
 - **Dokumentatsiya** 📄: 10% - Loyiha hujjatlarini yozish va yangilash.
 - **Dam olish** 🛋️: 10% - Dam olish va yangilanish.
+
+  ## ⏳ Mening Vaqt Taqsimotim
+
+Quyida mening kunimda qanday vaqt sarflayman ko'rsatilgan:
+
+- Kod yozish 🖥️: `████████████████████` (40%)
+- Rejalashtirish 📝: `██████████` (20%)
+- Xatoliklarni tuzatish 🐛: `██████████` (20%)
+- Dokumentatsiya 📄: `█████` (10%)
+- Dam olish 🛋️: `█████` (10%)
+- 
 ### Men qanday vaqt sarflayman:
 ```mermaid
 pie
