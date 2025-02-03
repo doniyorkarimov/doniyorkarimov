@@ -12,12 +12,12 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
   
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 Qisqacha :</h2>
 
-- :computer: I'm currently working on Laravel & Vue
+- :computer: python & bacend ustida ishlayapman
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
+- :triangular_flag_on_post: 
+- :muscle: 
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
