@@ -5,11 +5,10 @@
 ## Salom ! 👋
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+- 👨‍💻 API, django, postman, swagger, git
+- ⚙️ Html, Css 
+- 💽 Postgrsql
+
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
