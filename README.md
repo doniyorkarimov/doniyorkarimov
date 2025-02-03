@@ -1,11 +1,9 @@
-
-
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
-<h1 align="center">PHP Developer</h1>
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+<!-- If you want the template for my gif, email me! -->
+<h1 align="center">Backend Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+<br> Xozirgi kunda python backend ustida o'zim mustaqil shung'ullnib kelaman </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
