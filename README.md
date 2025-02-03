@@ -1,6 +1,7 @@
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ![Terminal GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 ![Backend Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Matrix GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 <h1 align="center">Backend Developer</h1>
 
