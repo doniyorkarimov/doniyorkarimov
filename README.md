@@ -7,6 +7,7 @@
 ![Dark Mode GIF](https://media.giphy.com/media/1l2Fq65hfEK6X2lYns/giphy.gif)
 ![Terminal Coding GIF](https://media.giphy.com/media/6BJuPEbYjp21s/giphy.gif)
 ![Typing GIF](https://media.giphy.com/media/9Zx5y6Wlj8o8w/giphy.gif)
+![Backend Ish Jarayoni](https://media.giphy.com/media/your_gif_link_here.gif)
 
 <h1 align="center">Backend Developer</h1>
 
