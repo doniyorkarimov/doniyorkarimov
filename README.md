@@ -1,7 +1,5 @@
-![Server Running](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
-![Testing](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
-![Debugging](https://media.giphy.com/media/l0HU7JI1m1eC3G5Li/giphy.gif)
-
+![Compiling Code](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
+![Testing Code](https://media.giphy.com/media/3o7TKSha7Nx5LhZ2G4/giphy.gif)
 <h1 align="center">Backend Developer</h1>
 
 ## Salom ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
