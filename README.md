@@ -1,48 +1,45 @@
+# 🚀 Salom, men backend dasturchiman! 
 
-# 🚀 Salom, men backend dasturchiman!
-
-Mening ismim [Ismingiz] va men backend dasturlash sohasida professionalman. Men asosan [til yoki texnologiyalar, masalan: Python, Node.js, Java, Django, Flask, Express.js] bilan ishlayman. Ma'lumotlar bazalari, API lar va server tomonidagi yechimlar yaratishda tajribam bor.
-
-## 💻 Texnologiyalar va Ko'nikmalar
-
-- **Dasturlash tillari:** Python, JavaScript, Java
-- **Frameworklar:** Django, Flask, Express.js, Spring Boot
-- **Ma'lumotlar bazalari:** PostgreSQL, MySQL, MongoDB
-- **Boshqa asboblar:** Docker, Git, REST API, GraphQL, RabbitMQ, Redis
-
-## 🛠 Loyihalar
-
-### 1. **Loyiha Nomi 1**
-   - **Tavsif:** Bu loyiha [qisqacha tavsif, masalan: foydalanuvchilar uchun API yaratish].
-   - **Texnologiyalar:** Python, Django, PostgreSQL
-   - [Loyiha havolasi](#) (agar mavjud bo'lsa)
-
-### 2. **Loyiha Nomi 2**
-   - **Tavsif:** [Qisqacha tavsif, masalan: real vaqtda ma'lumotlarni qayta ishlash].
-   - **Texnologiyalar:** Node.js, Express.js, MongoDB
-   - [Loyiha havolasi](#) (agar mavjud bo'lsa)
-
-### 3. **Loyiha Nomi 3**
-   - **Tavsif:** [Qisqacha tavsif, masalan: mikroservis arxitektura].
-   - **Texnologiyalar:** Java, Spring Boot, Docker, RabbitMQ
-   - [Loyiha havolasi](#) (agar mavjud bo'lsa)
-
-## 📫 Bog'lanish
-
-Agar sizda savollar yoki hamkorlik takliflari bo'lsa, menga quyidagi orqali murojaat qilishingiz mumkin:
-
-- **Email:** [email manzilingiz]
-- **LinkedIn:** [LinkedIn profilingiz havolasi]
-- **GitHub:** [GitHub profilingiz havolasi]
-- **Telegram:** [Telegram username yoki havola]
-
-## 🌟 Qiziqishlar
-
-- Kod yozishdan tashqari, men [qiziqishlaringiz, masalan: kitob o'qish, musiqiy asboblarda chalish, sport bilan shug'ullanish] bilan shug'ullanaman.
+Mening ismim **[Ismingiz]** va men backend dasturlash sohasida professionalman. Men asosan **Python, Node.js, Java** kabi tillar va **Django, Flask, Express.js, Spring Boot** kabi frameworklar bilan ishlayman. Ma'lumotlar bazalari, API lar va server tomonidagi yechimlar yaratishda tajribam bor.
 
 ---
 
-⭐️ Agar sizga mening profilim yoqqan bo'lsa, GitHub-da ⭐️ (yulduzcha) qoldiring yoki menga xabar yuboring!
+## 🛠 Texnologiyalar va Ko'nikmalar
+
+Men quyidagi texnologiyalar va asboblarni qo'llayman:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Diagrammalar va Statistikalar
+
+### Men qanday vaqt sarflayman:
+```mermaid
+pie
+    title Vaqt taqsimoti
+    "Kod yozish" : 40
+    "Loyihalarni rejalashtirish" : 20
+    "Xatoliklarni tuzatish" : 20
+    "Dokumentatsiya yozish" : 10
+    "Dam olish" : 10
+graph TD;
+    A[Backend] --> B[Python]
+    A --> C[Node.js]
+    A --> D[Java]
+    B --> E[Django]
+    B --> F[Flask]
+    C --> G[Express.js]
+    D --> H[Spring Boot]
+
+
+
+    
 <h1 align="center">Backend Developer</h1>
 
 ## Salom ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
