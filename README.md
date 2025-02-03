@@ -16,9 +16,9 @@ Men quyidagi texnologiyalar va asboblarni qo'llayman:
 
 - :computer: Xozirda python & backend ustida ishlab kelaman
 - :hourglass_flowing_sand:   Mikroservislar va voqealarga asoslangan arxitekturani o'rganish
-- :triangular_flag_on_post: Ijtimooiy tarmoq yuritib kelaman
+- :triangular_flag_on_post: Ijtimoiy tarmoq yuritib kelaman
 - :muscle: sport bilan ya'ni futbol o'ynab turaman
-- :rocket: Always ready to collaborate for Dev Experiments
+- :rocket: Maqsad. Senior dasturchi bo'lish
 
     ## 🌐 Men bilan bog'laning
 
