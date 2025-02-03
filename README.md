@@ -1,4 +1,5 @@
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Terminal GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 <h1 align="center">Backend Developer</h1>
 
