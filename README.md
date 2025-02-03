@@ -1,14 +1,4 @@
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-![Xakerlik Jarayoni](https://media.giphy.com/media/your_hacker_gif_link_here.gif)
-
-## Kod Yozish
-
-![Kod Yozish](https://media.giphy.com/media/your_coding_gif_link_here.gif)
-
-## Kiber Xavfsizlik
-
-![Kiber Xavfsizlik](https://media.giphy.com/media/your_cyber_security_gif_link_here.gif)
+![Server Running](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
 
 <h1 align="center">Backend Developer</h1>
 
