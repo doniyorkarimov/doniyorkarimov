@@ -14,10 +14,10 @@ Men quyidagi texnologiyalar va asboblarni qo'llayman:
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
+- :computer: Xozirda python & backend ustida ishlab kelaman
+- :hourglass_flowing_sand:   Mikroservislar va voqealarga asoslangan arxitekturani o'rganish
+- :triangular_flag_on_post: Ijtimooiy tarmoq yuritib kelaman
+- :muscle: sport bilan ya'ni futbol o'ynab turaman
 - :rocket: Always ready to collaborate for Dev Experiments
 
     ## 🌐 Men bilan bog'laning
