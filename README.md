@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/KarimovDoniyor/martonlederer/master/name.svg" alt="Karimov Doniyor" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
 </h1>
 
 ## Hey! 👋
@@ -26,4 +26,3 @@ I'm Marton, a 20 years old web developer from Hungary.
 - [marton.lederer.hu](https://marton.lederer.hu)
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 - [@martonlederer](./) on Discord
-
