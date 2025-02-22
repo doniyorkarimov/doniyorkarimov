@@ -23,7 +23,7 @@ Men quyidagi texnologiyalar va asboblarni qo'llayman:
     ## 🌐 Men bilan bog'laning
 
 Meni quyidagi ijtimoiy tarmoqlarda kuzatishingiz mumkin:
-
+📬 Menga Telegram orqali bog‘laning: [Telegram](https://t.me/doniyor_codes)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doniyor_codes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doniyorkarimov1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doniyor-karimov-33220234b/)
