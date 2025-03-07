@@ -1,7 +1,5 @@
 # 🚀 Salom, men backend dasturchiman! 
-<p align="center">
-  <img src="https://telegra.ph/file/402cb7a517ff837c220bc.jpg" alt="my banner">
-</p>
+
 Mening ismim Karimov Doniyor va men backend dasturlash sohasida ishlab kelaman. Men asosan **Python va **Django kabi frameworklar bilan ishlayman. Ma'lumotlar bazalari, API lar va server tomonidagi yechimlar yaratishda tajribam bor.
 
 
